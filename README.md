@@ -6,7 +6,7 @@ Selecting a name for a baby is a significant decision that can greatly influence
 
 Are you interested in a trendy name that's currently popular? Do you prefer a common name or do you want something that's truly unique (but not so unusual that it's prohibited)? And if you choose a unique name, how do you ensure that it won't become a popular choice in the coming years? These are some of the questions addressed in this study.
 
-The US Social Security Administration provides data files, one for each year, that contain the total number of births for each gender and name combination. As a result, this study utilized data on male and female names from 1920 to 2020.
+The US Social Security Administration provides data files, one for each year, that contain the total number of births for each gender and name combination wit his in mind, this study utilized this data on male and female names from 1920 to 2020 using jupyther notebook to integrate with databas created in postgresql using 
 
 To facilitate the analysis, the study was divided into eight parts:
 
